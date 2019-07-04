@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1527188806 source:e:\college\term6\ds1\assignment4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1527033776 e:\college\term6\ds1\assignment4\functions.h
+
+1526920481 e:\college\term6\ds1\assignment4\linkedlist.h
+
